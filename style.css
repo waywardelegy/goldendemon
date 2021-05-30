@@ -1,0 +1,94 @@
+.header {
+   background-color: #ff80bf;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+font-size: 15px;
+}
+
+body {
+background-color: #ffcce0;
+}
+
+div {
+  background-color: #ff80bf;
+  border: 5px ridge #b30047;
+  width:auto;
+  height:auto;
+  padding:5px;
+  margin:15px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+.footer {
+   background-color: #ff80bf;
+  width:auto;
+  height:auto;
+  padding:5px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
+a {
+  color: #e6005c;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #e6005c;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #e6005c;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+h2 {
+  color: #e6005c;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  color: #e6005c;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ffe6f0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b30047;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30047;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
